@@ -1,0 +1,1 @@
+print('asdf'*False, 'trew'*True)
